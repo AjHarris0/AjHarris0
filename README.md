@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @AjHarris0
-- 👀 I’m interested in machine learning, data science, AI, oceanograpghy/ocean technology, robotics, space, simulated games/graphics, Automation, and contextual AI (all based in Python)
+- 👀 I’m interested in machine learning, data science, AI, oceanograpghy/ocean technology, robotics, space, simulated games/graphics, Automation, and contextual AI
 - looking to learn c++ after i have a strong foundation in Python
-- 🌱 I’m currently learning web scraping and how to deal with data
-- 💞️ I’m looking to collaborate on anything that will lead me to a deeper understanding in computer science 
+- 🌱 I’m currently learning web scraping and how to deal with data 
 - 📫 my email is aijalonharris@gmail.com
 
 <!---
